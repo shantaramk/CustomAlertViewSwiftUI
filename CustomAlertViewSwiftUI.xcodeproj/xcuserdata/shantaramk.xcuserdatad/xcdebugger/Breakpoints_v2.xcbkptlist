@@ -7,15 +7,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "404564D8-4CF7-4917-95B3-0001A59151F8"
+            uuid = "65F02A62-A7FF-4675-95E2-CC6D035AAA9C"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CustomAlertViewSwiftUI/AlertView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "49"
-            endingLineNumber = "49"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -23,15 +23,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "C4CCC147-9703-4BF3-9035-3910391C42EF"
+            uuid = "6BA936F8-CDFA-443A-B41F-D7BB176AD882"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CustomAlertViewSwiftUI/AlertView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "56"
-            endingLineNumber = "56"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -39,47 +39,47 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "EAA9F2B0-2495-4FD6-8DF9-FA25B53A6B71"
+            uuid = "92B72662-F976-4515-AF6A-FCCB9CF5AF93"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CustomAlertViewSwiftUI/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "17"
-            endingLineNumber = "17"
-            landmarkName = "body"
-            landmarkType = "24">
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "body(content:)"
+            landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "EAA9F2B0-2495-4FD6-8DF9-FA25B53A6B71 - c61bd0047e7bfb2"
+                  uuid = "92B72662-F976-4515-AF6A-FCCB9CF5AF93 - b76cf9ca09a03b81"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "CustomAlertViewSwiftUI.ContentView.body.getter : some"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI._ViewModifier_Content&lt;CustomAlertViewSwiftUI.AKA&gt;, Swift.Optional&lt;CustomAlertViewSwiftUI.AlertView&gt;)&gt; in CustomAlertViewSwiftUI.AKA.body(content: SwiftUI._ViewModifier_Content&lt;CustomAlertViewSwiftUI.AKA&gt;) -&gt; some"
                   moduleName = "CustomAlertViewSwiftUI"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shantaramk/Documents/My%20Personal/CustomAlertViewSwiftUI/CustomAlertViewSwiftUI/ContentView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "17"
-                  endingLineNumber = "17"
-                  offsetFromSymbolStart = "31">
+                  startingLineNumber = "187"
+                  endingLineNumber = "187"
+                  offsetFromSymbolStart = "947">
                </Location>
                <Location
-                  uuid = "EAA9F2B0-2495-4FD6-8DF9-FA25B53A6B71 - fa3264633a73dcc7"
+                  uuid = "92B72662-F976-4515-AF6A-FCCB9CF5AF93 - 586bdc21465de676"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Button&lt;SwiftUI.Text&gt;, Swift.Optional&lt;CustomAlertViewSwiftUI.AlertView&gt;)&gt; in CustomAlertViewSwiftUI.ContentView.body.getter : some"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI._ViewModifier_Content&lt;CustomAlertViewSwiftUI.AKA&gt;, Swift.Optional&lt;CustomAlertViewSwiftUI.AlertView&gt;)&gt; in CustomAlertViewSwiftUI.AKA.body(content: SwiftUI._ViewModifier_Content&lt;CustomAlertViewSwiftUI.AKA&gt;) -&gt; some"
                   moduleName = "CustomAlertViewSwiftUI"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shantaramk/Documents/My%20Personal/CustomAlertViewSwiftUI/CustomAlertViewSwiftUI/ContentView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "18"
-                  endingLineNumber = "18"
-                  offsetFromSymbolStart = "117">
+                  startingLineNumber = "187"
+                  endingLineNumber = "187"
+                  offsetFromSymbolStart = "139">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -87,63 +87,47 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "7875678D-0EB7-47A3-840F-DD31F798A374"
+            uuid = "CB25787E-1348-48B7-B9D2-02822B3FA072"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CustomAlertViewSwiftUI/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "19"
-            endingLineNumber = "19"
-            landmarkName = "body"
-            landmarkType = "24">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "105870B0-B3A2-415F-B287-9002FB15CC16"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "CustomAlertViewSwiftUI/AlertView.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "33"
-            endingLineNumber = "33"
-            landmarkName = "body"
-            landmarkType = "24">
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "body(content:)"
+            landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "105870B0-B3A2-415F-B287-9002FB15CC16 - dddcdb1c1037c34e"
+                  uuid = "CB25787E-1348-48B7-B9D2-02822B3FA072 - c926cc7993155077"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "CustomAlertViewSwiftUI.AlertView.body.getter : some"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI._ViewModifier_Content&lt;CustomAlertViewSwiftUI.AKA&gt;, Swift.Optional&lt;CustomAlertViewSwiftUI.AlertView&gt;)&gt; in CustomAlertViewSwiftUI.AKA.body(content: SwiftUI._ViewModifier_Content&lt;CustomAlertViewSwiftUI.AKA&gt;) -&gt; some"
                   moduleName = "CustomAlertViewSwiftUI"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/shantaramk/Documents/My%20Personal/CustomAlertViewSwiftUI/CustomAlertViewSwiftUI/AlertView.swift"
+                  urlString = "file:///Users/shantaramk/Documents/My%20Personal/CustomAlertViewSwiftUI/CustomAlertViewSwiftUI/ContentView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "33"
-                  endingLineNumber = "33"
-                  offsetFromSymbolStart = "710">
+                  startingLineNumber = "184"
+                  endingLineNumber = "184"
+                  offsetFromSymbolStart = "139">
                </Location>
                <Location
-                  uuid = "105870B0-B3A2-415F-B287-9002FB15CC16 - c6a66565d06d4d9b"
+                  uuid = "CB25787E-1348-48B7-B9D2-02822B3FA072 - 586bdc21465de676"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 () -&gt; SwiftUI.GeometryReader&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.background&lt;A where A1: SwiftUI.View&gt;(_: A1, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt; in CustomAlertViewSwiftUI.AlertView.body.getter : some"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI._ViewModifier_Content&lt;CustomAlertViewSwiftUI.AKA&gt;, Swift.Optional&lt;CustomAlertViewSwiftUI.AlertView&gt;)&gt; in CustomAlertViewSwiftUI.AKA.body(content: SwiftUI._ViewModifier_Content&lt;CustomAlertViewSwiftUI.AKA&gt;) -&gt; some"
                   moduleName = "CustomAlertViewSwiftUI"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/shantaramk/Documents/My%20Personal/CustomAlertViewSwiftUI/CustomAlertViewSwiftUI/AlertView.swift"
+                  urlString = "file:///Users/shantaramk/Documents/My%20Personal/CustomAlertViewSwiftUI/CustomAlertViewSwiftUI/ContentView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "35"
-                  endingLineNumber = "35"
-                  offsetFromSymbolStart = "24">
+                  startingLineNumber = "185"
+                  endingLineNumber = "185"
+                  offsetFromSymbolStart = "8">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -151,39 +135,129 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "E5CB596F-51AB-467B-811B-6280AA301162"
+            uuid = "07052870-A181-493E-94D7-0CFE237830CA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomAlertViewSwiftUI/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC29279A-71A5-44CF-ACFF-A96E7267691A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomAlertViewSwiftUI/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "938F1227-4A09-4B79-9710-C7B7F8045EEB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomAlertViewSwiftUI/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8964F513-7AA8-44AD-B990-D0BFFD68C6BA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomAlertViewSwiftUI/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "body(content:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0B8E0C6-296F-4211-A7BE-5DF1DE51773C"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CustomAlertViewSwiftUI/AlertView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "35"
-            endingLineNumber = "35"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "761AB101-2A6B-4A8D-83E5-D8A0EB359E3F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomAlertViewSwiftUI/AlertView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC1BFE2D-DB34-4CC4-84B9-1B1CAB20FD4C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomAlertViewSwiftUI/AlertView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
             landmarkName = "body"
             landmarkType = "24">
             <Locations>
                <Location
-                  uuid = "E5CB596F-51AB-467B-811B-6280AA301162 - c6a66565d06d4d9b"
+                  uuid = "EC1BFE2D-DB34-4CC4-84B9-1B1CAB20FD4C - ba0385e03db4157a"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 () -&gt; SwiftUI.GeometryReader&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.background&lt;A where A1: SwiftUI.View&gt;(_: A1, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt; in CustomAlertViewSwiftUI.AlertView.body.getter : some"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ZStack&lt;SwiftUI.GeometryReader&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.animation(Swift.Optional&lt;SwiftUI.Animation&gt;) -&gt; some&gt;&gt;.0&gt;&gt; in CustomAlertViewSwiftUI.AlertView.body.getter : some"
                   moduleName = "CustomAlertViewSwiftUI"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shantaramk/Documents/My%20Personal/CustomAlertViewSwiftUI/CustomAlertViewSwiftUI/AlertView.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "35"
-                  endingLineNumber = "35"
-                  offsetFromSymbolStart = "24">
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "442">
                </Location>
                <Location
-                  uuid = "E5CB596F-51AB-467B-811B-6280AA301162 - 9b6a8808bed4dd5e"
+                  uuid = "EC1BFE2D-DB34-4CC4-84B9-1B1CAB20FD4C - 67b283299fc6470e"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.background&lt;A where A1: SwiftUI.View&gt;(_: A1, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.GeometryReader&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.background&lt;A where A1: SwiftUI.View&gt;(_: A1, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt; in CustomAlertViewSwiftUI.AlertView.body.getter : some"
+                  symbolName = "closure #1 () -&gt; SwiftUI.GeometryReader&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.animation(Swift.Optional&lt;SwiftUI.Animation&gt;) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.ZStack&lt;SwiftUI.GeometryReader&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.animation(Swift.Optional&lt;SwiftUI.Animation&gt;) -&gt; some&gt;&gt;.0&gt;&gt; in CustomAlertViewSwiftUI.AlertView.body.getter : some"
                   moduleName = "CustomAlertViewSwiftUI"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/shantaramk/Documents/My%20Personal/CustomAlertViewSwiftUI/CustomAlertViewSwiftUI/AlertView.swift"
@@ -191,7 +265,7 @@
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "37"
                   endingLineNumber = "37"
-                  offsetFromSymbolStart = "610">
+                  offsetFromSymbolStart = "30">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -199,15 +273,63 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "BE818378-DE1F-4661-BF69-1A7DC31328D4"
+            uuid = "299F449B-581E-46E9-8105-9ED708A3305A"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "CustomAlertViewSwiftUI/AlertView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "38"
-            endingLineNumber = "38"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "299F449B-581E-46E9-8105-9ED708A3305A - 773317b850d00723"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.animation(Swift.Optional&lt;SwiftUI.Animation&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.GeometryReader&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.animation(Swift.Optional&lt;SwiftUI.Animation&gt;) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.ZStack&lt;SwiftUI.GeometryReader&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.animation(Swift.Optional&lt;SwiftUI.Animation&gt;) -&gt; some&gt;&gt;.0&gt;&gt; in CustomAlertViewSwiftUI.AlertView.body.getter : some"
+                  moduleName = "CustomAlertViewSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shantaramk/Documents/My%20Personal/CustomAlertViewSwiftUI/CustomAlertViewSwiftUI/AlertView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1217">
+               </Location>
+               <Location
+                  uuid = "299F449B-581E-46E9-8105-9ED708A3305A - d60a55cb867b6545"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.background&lt;A where A1: SwiftUI.View&gt;(_: A1, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.background&lt;A where A1: SwiftUI.View&gt;(_: A1, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.background&lt;A where A1: SwiftUI.View&gt;(_: A1, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.background&lt;A where A1: SwiftUI.View&gt;(_: A1, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0)&gt;&gt;)&gt; in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.animation(Swift.Optional&lt;SwiftUI.Animation&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.GeometryReader&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.animation(Swift.Optional&lt;SwiftUI.Animation&gt;) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.ZStack&lt;SwiftUI.GeometryReader&lt;&lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.animation(Swift.Optional&lt;SwiftUI.Animation&gt;) -&gt; some&gt;&gt;.0&gt;&gt; in CustomAlertViewSwiftUI.AlertView.body.getter : some"
+                  moduleName = "CustomAlertViewSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shantaramk/Documents/My%20Personal/CustomAlertViewSwiftUI/CustomAlertViewSwiftUI/AlertView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "951">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "102F8A81-6E82-4CC5-8B8C-BDCB1AAE85FD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CustomAlertViewSwiftUI/AlertView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
